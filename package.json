@@ -77,5 +77,8 @@
     "**/*.ts?(x)": [
       "eslint --fix"
     ]
+  },
+  "engines": {
+    "node": "24.x"
   }
 }
